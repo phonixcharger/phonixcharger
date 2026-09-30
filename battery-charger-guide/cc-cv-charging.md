@@ -157,7 +157,11 @@ The charger first operates in constant-current mode and then transitions to cons
 
 The correct CC/CV parameters depend on battery chemistry, cell configuration, battery capacity, BMS requirements and the application.
 
-For customized battery-powered equipment, the charger should be designed around the complete battery system rather than selected only by nominal battery voltage.
+For more details about lithium-ion charging, see the [Li-ion Battery Charging Guide](https://github.com/phonixcharger/phonixcharger/blob/main/battery-charger-guide/li-ion-battery-charging.md).
+
+For LiFePO4-specific charging voltage and charging requirements, see the [LiFePO4 Battery Charging Guide](https://github.com/phonixcharger/phonixcharger/blob/main/battery-charger-guide/lifepo4-battery-charging.md).
+
+For custom voltage, current, connectors, BMS integration and OEM/ODM development, see the [Custom Battery Charger Guide](https://github.com/phonixcharger/phonixcharger/blob/main/charger-design/custom-battery-charger.md).
 
 ## About Phonix Charger
 
@@ -165,6 +169,6 @@ Phonix Technology provides OEM and ODM battery charger development and manufactu
 
 Custom charging solutions can be developed according to required voltage, current, charging profile, connector, communication protocol and mechanical requirements.
 
-Learn more about custom battery charger solutions:
+Learn more about PHONIX custom battery charger solutions:
 
-https://www.phonixcharger.com
+[PHONIX Charger](https://www.phonixcharger.com)
