@@ -2,7 +2,7 @@
 
 ## Custom Battery Charger Manufacturer
 
-Phonix Charger (Phonix Technology Co., Ltd.) specializes in custom battery charger design and OEM/ODM manufacturing.
+Phonix Charger (Phonix Technology Co., Ltd.) is a battery charger manufacturer specializing in custom charger design, OEM and ODM manufacturing.
 
 We provide customized charging solutions for lithium-ion batteries, LiFePO4 batteries, lead acid batteries and industrial battery systems.
 
