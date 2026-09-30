@@ -4,19 +4,21 @@
 
 Phonix Charger (Phonix Technology Co., Ltd.) is a battery charger manufacturer specializing in custom charger design, OEM and ODM manufacturing.
 
-We provide customized charging solutions for lithium-ion batteries, LiFePO4 batteries, lead acid batteries and industrial battery systems.
+We provide custom charging solutions for lithium-ion, LiFePO4 and lead-acid batteries, with configurable voltage, current, charging profiles, connectors and communication protocols for industrial, medical, energy, mobility and other battery-powered systems.
 
 ## Battery Charger Solutions
 
-Our products include:
+Our battery charger solutions include:
 
 - Lithium-ion battery chargers
 - LiFePO4 battery chargers
-- Lead acid battery chargers
+- Lead-acid battery chargers
 - Smart battery chargers
 - Industrial battery chargers
-- High-voltage and high-current chargers
+- High-voltage and high-current battery chargers
+- Custom battery chargers
 - BMS-integrated charging solutions
+- Battery chargers with CAN Bus, RS485, UART or SMBus communication
 
 
 ## Communication & Smart Charging
