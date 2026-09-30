@@ -103,3 +103,14 @@ Our products support international certification requirements:
 ## Website
 
 https://www.phonixcharger.com
+
+## Battery Charger Technical Guides
+
+Technical information about battery charging, charger design, testing and OEM/ODM development.
+
+- [Li-ion Battery Charging Guide](battery-charger-guide/li-ion-battery-charging.md)
+- [LiFePO4 Battery Charging Guide](battery-charger-guide/lifepo4-battery-charging.md)
+- [CC/CV Charging Explained](battery-charger-guide/cc-cv-charging.md)
+- [Custom Battery Charger Guide](charger-design/custom-battery-charger.md)
+- [Battery Charger Current Selection](charger-design/charger-current-selection.md)
+- [Automated Battery Charger Testing](charger-testing/automated-battery-charger-testing.md)
