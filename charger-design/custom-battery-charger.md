@@ -981,15 +981,13 @@ A better starting point is:
 
 That gives the charger manufacturer the engineering information needed to evaluate the project properly.
 
----
-
 ## Related Technical Guides
 
-* [Li-ion Battery Charging Guide](li-ion-battery-charging.md)
-* [LiFePO4 Battery Charging Guide](lifepo4-battery-charging.md)
-* [CC/CV Charging Explained](cc-cv-charging.md)
-* [Battery Charger Current Selection](../charger-design/charger-current-selection.md)
-* [Automated Battery Charger Testing](../charger-testing/automated-battery-charger-testing.md)
+- [Li-ion Battery Charging Guide](https://github.com/phonixcharger/phonixcharger/blob/main/battery-charger-guide/li-ion-battery-charging.md)
+- [LiFePO4 Battery Charging Guide](https://github.com/phonixcharger/phonixcharger/blob/main/battery-charger-guide/lifepo4-battery-charging.md)
+- [CC/CV Charging Explained](https://github.com/phonixcharger/phonixcharger/blob/main/battery-charger-guide/cc-cv-charging.md)
+- [Battery Charger Current Selection](https://github.com/phonixcharger/phonixcharger/blob/main/charger-design/charger-current-selection.md)
+- [Automated Battery Charger Testing](https://github.com/phonixcharger/phonixcharger/blob/main/charger-testing/automated-battery-charger-testing.md)
 
 ---
 
