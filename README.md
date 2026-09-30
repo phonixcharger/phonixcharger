@@ -21,15 +21,18 @@ Our battery charger solutions include:
 - Battery chargers with CAN Bus, RS485, UART or SMBus communication
 
 
-## Communication & Smart Charging
+## Smart Battery Charging & Communication
 
-We support advanced charging communication technologies:
+Custom battery charging systems can be integrated with battery management systems (BMS) and external control systems.
+
+Supported communication and integration options include:
 
 - CAN Bus
 - RS485
 - UART
 - SMBus
-- Battery Management System (BMS) integration
+- BMS communication and integration
+- Custom charging parameters and communication protocols
 
 
 ## Applications
@@ -38,6 +41,8 @@ Phonix custom battery charging solutions are used in:
 
 ### Industrial Equipment
 
+- Robotics and autonomous systems
+- Automated guided vehicles (AGV) and autonomous mobile robots (AMR)
 - AGV and AMR robots
 - Aerial work platforms and scissor lifts
 - Industrial vehicles and battery-powered equipment
@@ -76,22 +81,27 @@ Phonix custom battery charging solutions are used in:
 - High-reliability equipment
 
 
-## OEM & ODM Development
+## OEM & ODM Battery Charger Development
 
-We work with engineering teams, distributors and manufacturers worldwide to develop customized battery charging solutions.
+We work with engineering teams, distributors and manufacturers worldwide to develop custom battery charging solutions for new products and existing battery-powered systems.
 
-Our capabilities include:
+Our OEM and ODM capabilities include:
 
-- Charger hardware design
+- Charger hardware design and modification
 - Firmware customization
+- Charging voltage and current configuration
+- CC/CV and multi-stage charging profiles
 - Charging parameter optimization
-- Communication protocol integration
+- CAN Bus, RS485, UART and SMBus integration
+- Connector, cable and enclosure customization
+- Prototype development and engineering samples
+- Production testing and quality control
 - Certification support
 
 
 ## Certifications
 
-Our products support international certification requirements:
+Our charger products can be developed and supplied to meet applicable international certification and regulatory requirements, depending on the product, market and project requirements:
 
 - UL
 - ETL
@@ -102,13 +112,15 @@ Our products support international certification requirements:
 - RCM
 
 
-## Website
+## Official Website
 
-https://www.phonixcharger.com
+Learn more about PHONIX custom battery chargers, OEM/ODM services, products and charging solutions:
+
+[PHONIX Charger] https://www.phonixcharger.com
 
 ## Battery Charger Technical Guides
 
-Technical information about battery charging, charger design, testing and OEM/ODM development.
+Practical technical guides covering battery charging, charger design, charger current selection, automated testing and OEM/ODM battery charger development.
 
 - [Li-ion Battery Charging Guide](battery-charger-guide/li-ion-battery-charging.md)
 - [LiFePO4 Battery Charging Guide](battery-charger-guide/lifepo4-battery-charging.md)
