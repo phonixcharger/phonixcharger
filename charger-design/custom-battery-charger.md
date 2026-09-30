@@ -989,7 +989,7 @@ That gives the charger manufacturer the engineering information needed to evalua
 - [Battery Charger Current Selection](https://github.com/phonixcharger/phonixcharger/blob/main/charger-design/charger-current-selection.md)
 - [Automated Battery Charger Testing](https://github.com/phonixcharger/phonixcharger/blob/main/charger-testing/automated-battery-charger-testing.md)
 
----
+
 
 ## About PHONIX Charger
 
