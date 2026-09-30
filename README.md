@@ -41,9 +41,8 @@ Phonix custom battery charging solutions are used in:
 
 ### Industrial Equipment
 
-- Robotics and autonomous systems
+- Robotics and autonomous systems，AGV and AMR robots
 - Automated guided vehicles (AGV) and autonomous mobile robots (AMR)
-- AGV and AMR robots
 - Aerial work platforms and scissor lifts
 - Industrial vehicles and battery-powered equipment
 - UPS and backup power systems
