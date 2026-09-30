@@ -137,6 +137,8 @@ Phonix Technology provides OEM and ODM battery charger development and manufactu
 
 Custom charger solutions can be developed according to required voltage, current, charging profile, connector, communication protocol, mechanical design and application requirements.
 
-Learn more about custom battery charger solutions:
+For more information about custom charger specifications, voltage, current, connectors, BMS integration and OEM/ODM development, see the [Custom Battery Charger Guide](https://github.com/phonixcharger/phonixcharger/blob/main/charger-design/custom-battery-charger.md).
 
-https://www.phonixcharger.com
+Learn more about PHONIX custom LiFePO4 battery charger solutions:
+
+[PHONIX Charger](https://www.phonixcharger.com)
